@@ -1,0 +1,5 @@
+idUser,UserName,UserSurname,UserEmail,UserPassword,UserPais,UserNaciona,UserPhone,UserFechaN
+12345678,"Pedro ",MARTIN,AIZZO@GMAI.COM,121212,ARGENTINA,PERUANO,1123456789,"1980-01-01 00:00:00"
+20246802,Magdalena,Pedro,magdalenapedro9@gmail.com,123456789,Argentina,Argentina,1122336699,"1980-04-01 00:00:00"
+52300400,Mario,Lopez,mario@hotmail.com,123456,Argentina,Peru,1199887766,"1980-01-01 00:00:00"
+95856330,Antony,"IZZO LOPEZ",AIZZO@GMAI.COM,123456,ARGENTINA,VENEZOLANO,1122524929,"1983-07-19 00:00:00"
